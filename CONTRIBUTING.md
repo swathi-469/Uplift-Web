@@ -1,7 +1,7 @@
-# Contribution Guidelines [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/smaranjitghose/awesome-portfolio-websites/issues) 🤝🏽🍀:
+# Contribution Guidelines [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Ayushparikh-code/Face--Mask--Detection/issues) 🤝🏽🍀:
 
 
-<p align="center"><img src="./readme_assets/Contribute.png" width=600></p>
+<p align="center"><img src="https://i.ytimg.com/vi/qwvxfyddouQ/maxresdefault.jpg" width=600></p>
 
 We want to make contributing to this project as easy and as transparent as possible, whether it's:<br>
 
@@ -28,28 +28,29 @@ Make sure to read it here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
 ##   A. Setting up the Project
 
-*1.*  Fork [this](https://github.com/smaranjitghose/awesome-portfolio-websites) repository.
+*1.*  Fork [this](https://github.com/Ayushparikh-code/Face--Mask--Detection.git) repository.
 
-<p align="center"><img src="readme_assets\Fork_Repo.gif" width="500" height="200" /></p>
+<p align="center"><img src="https://www.w3schools.com/GIT/img_github_fork.png" width="500" height="200" /></p>\
 
 
 *2.*  Clone your forked copy of the project.
 
 
-git clone --depth 1 https://github.com/<your_user_name>/awesome-portfolio-websites.git
+git clone --depth 1 https://github.com/<your_user_name>/Face--Mask--Detection.git
 
-<p align="center"><img width=35% src="readme_assets\clone_repo.gif" width="500" height="200" /></p>
+<p align="center"><img width=35% src="https://www.w3schools.com/GIT/img_github_clone_url.png" width="500" height="200" /></p>
+
 
 *3.* Navigate to the project directory :file_folder: .
 
 
-cd awesome-portfolio-websites
+cd Face--Mask--Detection
 
 
 *4.* Add a reference to the original repository.
 
 
-git remote add upstream https://github.com/smaranjitghose/awesome-portfolio-websites.git 
+git remote add upstream https://github.com/Ayushparikh-code/Face--Mask--Detection.git 
 
 
 *5.* Check the remotes for this repository.
@@ -64,7 +65,7 @@ git remote -v
 git pull upstream master
 
 
-- Comment on any existing [issue(s)](https://github.com/smaranjitghose/awesome-portfolio-websites/issues) raised by *project maintainers*. Otherwise raise a [new issue](https://github.com/smaranjitghose/awesome-portfolio-websites/issues/new).
+- Comment on any existing [issue(s)](https://github.com/Ayushparikh-code/Face--Mask--Detection/issues) raised by *project maintainers*. Otherwise raise a [new issue](https://github.com/Ayushparikh-code/Face--Mask--Detection/issues/new).
 
 > ### Guidelines for raising a new issue:
 >
@@ -137,14 +138,14 @@ git push -u origin <your_branch_name>
 
 *6.* To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
-<img src="./readme_assets/ComparePR.png" width=600>
 
 *7.* Then add an appropriate title and description to your pull request that explains your changes and efforts done.
 
 
 *8.* Click on `Create Pull Request`.
 
-<img src="./readme_assets/CreatePR.png" width=600>
+<img src="https://www.w3schools.com/GIT/img_github_fork_create_pull_request.png" width=600>
+
 
 > ### Guidelines for raising a pull request:
 >
@@ -186,6 +187,7 @@ git push -u origin <your_branch_name>
 > - Always keep a note of the deadline.
 
 
-*9.* Voila :exclamation: You have made a PR to the awesome-developer-portfolio project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days.
+*9.* Voila :exclamation: You have made a PR to the Face Mask Detection :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days.
 
 <p align="center"><img src="https://media.giphy.com/media/5mCQOcUfywmyI/giphy.gif" width=35%></p>
+{"mode":"full","isActive":false}
